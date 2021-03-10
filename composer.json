@@ -1,0 +1,13 @@
+{
+    "name": "user/datateks-test2",
+    "authors": [
+        {
+            "name": "Vakrug2",
+            "email": "vakrug2@inbox.lv"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"": "classes/"}
+    },
+    "require": {}
+}
