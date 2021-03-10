@@ -7,7 +7,10 @@
         }
     ],
     "autoload": {
-        "psr-4": {"": "classes/"}
+        "psr-4": {
+            "": "classes/",
+            "Interfaces\\": "interfaces/"
+        }
     },
     "require": {}
 }
